@@ -1,0 +1,21 @@
+# Python 运行产物
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# pytest / 测试运行产物
+.pytest_cache/
+test-results/
+allure-results/
+allure-report/
+*.log
+
+# 虚拟环境与编辑器
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
